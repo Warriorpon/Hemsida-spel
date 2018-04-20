@@ -1,5 +1,5 @@
 .bakgrund{
-    background-image: url(Bilder/FF-Heavensward-Ishgard.jpg)
+    background-image: url(Bilder/FF-Heavensward-Ishgard.jpg);
 }
 
 .A{
@@ -28,4 +28,211 @@
     background-color: black;
     border-radius: 30px;
     width: 400px;
+}
+
+.C{
+    font-family: Papyrus;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    float: left;
+    left: 800px;
+    top: 350px;
+    border-style: groove;
+    border-color: white;
+    background-color: black;
+    border-radius: 1px;
+    width: 200px;
+    
+}
+
+.D{
+    font-family: Calibri;
+    font-size: 45px;
+    color: black;
+    position: absolute;
+    float: left;
+    left: 100px;
+    top: 100px;
+    border-left: 8px solid;
+    background-color: lightgray;
+    opacity: 0.5;
+        
+    
+}
+
+.E {
+    font-family: Calibri;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    float: left;
+    left: 100px;
+    top: 240px;
+    border-left: 8px solid;
+    background-color: lightgray;
+    opacity: 0.5;
+    
+}
+
+.F{
+    font-family: Calibri;
+    font-size: 45px;
+    color: black;
+    position: absolute;
+    float: left;
+    left: 100px;
+    top: 100px;
+    border-left: 8px red solid;
+    background-color: lightgray;
+    opacity: 0.5;
+}
+
+.Ond{
+    background-image: url(Bilder/BlackHeart1.jpg);
+}
+.God{
+    background-image: url(Bilder/%C3%B6.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+.Wrench{
+    border-style: solid;
+    border-color: black;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    float: left;
+    top: 450px;
+    left: 150px;
+        
+}
+
+.Reg{
+    width: 500px;
+    font-family: Calibri;
+    font-size: 20px;
+    border-left: solid black 4px;
+    background-color: lightgray;
+    opacity: 0,5;
+    
+}
+
+.Dunban{
+    
+    position: absolute;
+    float: left;
+    top: 950px;
+    left: 600px;
+    border-style: solid;
+    border-color: black;
+    background-color: white
+}
+
+.Youske{
+    position: absolute;
+    float: left;
+    top: 1430px;
+    left: 150px;
+    border-style: solid;
+    border-color: black;
+    background-color: white
+}
+
+.Wulf{
+    
+     position: absolute;
+    float: left;
+    top: 1930px;
+    left: 600px;
+    border-style: solid;
+    border-color: black;
+    background-color: white
+}
+
+.Ryu{
+    
+    position: absolute;
+    float: left;
+    top: 2540px;
+    left: 150px;
+    border-style: solid;
+    border-color: black;
+    background-color: white
+}
+
+.Sans{
+    position: absolute;
+    float: left;
+    top: 3100px;
+    left: 600px;
+    border-style: solid;
+    border-color: black;
+    background-color: black
+}
+
+.Warriorpon{
+    
+     position: absolute;
+    float: left;
+    top: 3600px;
+    left: 150px;
+    border-style: solid;
+    border-color: black;
+    background-color: white
+}
+
+.Spc{
+    width: 350px;
+    font-family: Calibri;
+    font-size: 20px;
+    border-left: solid black 4px;
+    background-color: lightgray;
+    opacity: 0,5;
+    
+}
+
+.Pyra{
+    
+     position: absolute;
+    float: left;
+    top: 4250px;
+    left: 600px;
+    border-style: solid;
+    border-color: black;
+    background-color: black
+}
+
+.mythra {
+    
+     position: absolute;
+    float: left;
+    top: 4800px;
+    left: 150px;
+    border-style: solid;
+    border-color: black;
+    background-color: black
+}
+
+.nate{
+    position: absolute;
+    float: left;
+    top: 5400px;
+    left: 600px;
+    border-style: solid;
+    border-color: black;
+    background-color: black
+}
+
+.makoto{
+      position: absolute;
+    float: left;
+    top: 4800px;
+    left: 150px;
+    border-style: solid;
+    border-color: black;
+    background-color: black
+    
 }
