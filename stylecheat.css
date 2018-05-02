@@ -1,6 +1,20 @@
-.bakgrund{
-    background-image: url(Bilder/FF-Heavensward-Ishgard.jpg);
+body{
+   background-image: url(Bilder/%C3%B6.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
+
+@media (max-device-width: 450px){
+    
+    body{
+        background-image: url(Bilder/o%C3%B6.jpg);
+        background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    }
+}
+
 
 .A{
     font-family: Papyrus ;
@@ -89,6 +103,19 @@
     width: 260px;
 }
 
+.G{
+    font-family: Calibri;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    float: left;
+    left: 100px;
+    top: 330px;
+    border-left: 8px solid;
+    background-color: lightgray;
+    opacity: 0.5;
+}
+
 .Ond{
     background-image: url(Bilder/BlackHeart1.jpg);
 }
@@ -127,14 +154,16 @@ figure:nth-of-type(2n){
 h1{
     margin-left: auto;
     margin-right: 850px;
-    font-family: Papyrus ;
-    width: 600px;
-    font-size: 45px;
-    color: cornsilk;
-    border-style: double;
-    border-color: white;
-    background-color: black;
-    border-radius: 30px;
+     font-family: Calibri;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    float: left;
+    left: 100px;
+    top: 200px;
+    border-left: 8px solid;
+    background-color: lightgray;
+    opacity: 0.5;
     
 }
 /*
