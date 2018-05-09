@@ -64,10 +64,6 @@ body{
     font-family: Calibri;
     font-size: 45px;
     color: black;
-    position: absolute;
-    float: left;
-    left: 100px;
-    top: 80px;
     border-left: 8px solid;
     background-color: lightgray;
     opacity: 0.5;
@@ -79,10 +75,6 @@ body{
     font-family: Calibri;
     font-size: 30px;
     color: black;
-    position: absolute;
-    float: left;
-    left: 100px;
-    top: 200px;
     border-left: 8px solid;
     background-color: lightgray;
     opacity: 0.5;
@@ -130,8 +122,8 @@ figure{
      border-style: solid;
     border-color: black;
     width: 500px;
-    margin-top: 400px;
-    margin-bottom: -300px;
+    margin-top: 100px;
+    margin-bottom: -9px;
     margin-left: 100px;
     margin-right: auto;
      font-family: Calibri;
@@ -153,14 +145,10 @@ figure:nth-of-type(2n){
 
 h1{
     margin-left: auto;
-    margin-right: 850px;
      font-family: Calibri;
     font-size: 30px;
     color: black;
-    position: absolute;
-    float: left;
-    left: 100px;
-    top: 200px;
+    width: -200px;
     border-left: 8px solid;
     background-color: lightgray;
     opacity: 0.5;
