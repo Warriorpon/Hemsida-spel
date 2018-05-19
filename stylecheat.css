@@ -83,6 +83,19 @@ body{
     
 }
 
+.E2{
+    font-family: Calibri;
+    font-size: 30px;
+    color: black;
+    border-left: 8px solid;
+    background-color: lightgray;
+    opacity: 0.5;
+    width: 500px;
+    
+    
+}
+
+
 .F{
     font-family: Calibri;
     font-size: 45px;
